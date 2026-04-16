@@ -101,8 +101,8 @@ const TodoList: FC = () => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Todo List</Text>
-      <Text style={styles.subtitle}>Saved automatically</Text>
+      <Text style={styles.title}>Task Tracker</Text>
+      <Text style={styles.subtitle}>Keep track of your most important tasks😉</Text>
 
       {/* Input */}
       <View style={styles.inputCard}>
