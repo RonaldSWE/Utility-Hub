@@ -21,10 +21,17 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.ronaldswe9112sorganization.UtilityHub"
     },
     "web": {
       "favicon": "./assets/UtilityHub icon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dc9968d5-5227-49a1-ac2d-5a377951e6a3"
+      }
+    },
+    "owner": "ronaldswe9112s-organization"
   }
 }
